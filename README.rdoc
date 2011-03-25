@@ -1,0 +1,10 @@
+== JFace Examples
+
+This repository contain code attempting to simplify the development
+of JFace and SWT applications.
+
+== Table Tools
+
+The Table tools contains a reduced amount of classes that i've made
+to simplify the creation of Tables with different column types 
+(editable, icons, sortable, etc...).
