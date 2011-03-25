@@ -8,3 +8,19 @@ of JFace and SWT applications.
 The Table tools contains a reduced amount of classes that i've made
 to simplify the creation of Tables with different column types 
 (editable, icons, sortable, etc...).
+
+The table.tools contain all the classes that you need on your projects.
+
+The table.samples contains a sample application with 4 different table types.
+
+The packages:
+
+* table.samples.simple_columns Contains the classes for creating a simple table with two columns (none editable)
+* table.samples.editable_columns Contains the classes for creating an editable table
+* table.samples.conditional_editing Contains the classes for creating an editable table based on conditions
+* table.samples.editable_images Contains the classes for creating an editable table with images
+* table.samples.model Contains a sample Model used for all the tables
+
+To run the example, just execute the class table.samples.Main
+
+You should have jface and swt configured propertly on Eclipse or Netbeans.
